@@ -18,7 +18,7 @@ export default () => (<Layout>
 
   <h3>Setup</h3>
   <ol>
-    <li>Fork <a target='_blank' href='https://github.com/eugenkiss/7guis'>the repo</a></li>
+    <li>Fork <a target='_blank' href='https://github.com/7guis/7guis'>the repo</a></li>
     <li>Clone your fork</li>
     <li>Make a branch for your changes</li>
     <li>Go into the <code>site</code> directory</li>
