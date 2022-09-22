@@ -359,5 +359,13 @@ const implementations = [
     authorLink: "https://github.com/Bogdanp/",
     link: "https://github.com/Bogdanp/racket-gui-easy/tree/master/examples",
     src: "https://github.com/Bogdanp/racket-gui-easy/tree/master/examples",
-  }  
+  },
+  {
+    title: 'Karyon',
+    technologies: ['Karyon', 'JavaScript'],
+    author: 'Sergey Dirzu',
+    authorLink: 'https://gitlab.com/syduki',
+    link: 'https://karyon.dev/workbench/#examples/7guis/counter',
+    src: 'https://gitlab.com/karyonjs/karyon.dev/-/tree/main/root/samples/examples/7guis',
+  }
 ]
