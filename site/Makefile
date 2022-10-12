@@ -19,7 +19,7 @@ serve:
 
 publish: build
 	rm -rf gh-pages
-	git clone -b gh-pages --single-branch --depth 1 git@github.com:eugenkiss/7guis.git gh-pages
+	git clone -b gh-pages --single-branch --depth 1 git@github.com/7guis/7guis.git gh-pages
 	rm -rf gh-pages/*
 	cp -r dist/* gh-pages/
 	cd gh-pages && git add . && git commit --amend -m "Update site" && git push -f
