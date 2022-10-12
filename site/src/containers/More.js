@@ -20,24 +20,23 @@ export default () => (<Layout toc={toc}>
   </h1>
 
   <Heading {...toc.about}/>
-  7GUIs has been created as a spin-off of
-  {' '}<a target='_blank' href='https://eugenkiss.github.io/7guis/'>my</a>{' '}
-  master’s thesis
+  7GUIs was been created as a spin-off of the master’s thesis
   {' '}<a target='_blank' href={thesisHref}>
-    Comparison of Object-Oriented and Functional Programming for GUI Development
+  Comparison of Object-Oriented and Functional Programming for GUI Development
   </a>{' '}
-  at the
+  by Eugen Kiss at the
   {' '}<a target='_blank' href={hciHref}>
   Human-Computer Interaction group
   {' '}</a>
   of the Leibniz Universität Hannover in 2014.
-  The GUI programming sphere has anything but stopped evolving since then. Yet,
-  the holy grail appears to still be out of reach. I believe projects such as
-  7GUIs may help us find the right direction sooner. Four years after its inception
-  I have written an article about 7GUIs:{' '}
+  Eugen wrote: "The GUI programming sphere has anything but stopped evolving since then. 
+  Yet, the holy grail appears to still be out of reach. 
+  I believe projects such as 7GUIs may help us find the right direction sooner. 
+  Four years after its inception I have written an article about 7GUIs:
+  {' '}
   <a target='_blank' href='https://hackernoon.com/towards-a-better-gui-programming-benchmark-397aca3542b8'>
     Towards a Better GUI Programming Benchmark
-  </a>.
+  </a>."
 
   <Heading {...toc.analyses}/>
   <p>
