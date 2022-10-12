@@ -6,7 +6,7 @@ import {renderStylesToString} from 'emotion-server'
 export default {
   preact: true,
 
-  siteRoot: 'https://eugenkiss.github.io/',
+  siteRoot: 'https://7guis.github.io/7guis/',
   basePath: '7guis',
 
   getRoutes: () => {
