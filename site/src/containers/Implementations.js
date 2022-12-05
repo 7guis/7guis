@@ -367,5 +367,13 @@ const implementations = [
     authorLink: 'https://gitlab.com/syduki',
     link: 'https://karyon.dev/workbench/#examples/7guis/counter',
     src: 'https://gitlab.com/karyonjs/karyon.dev/-/tree/main/root/samples/examples/7guis',
+  },
+  {
+    title: 'Rust/iced',
+    technologies: ['Rust', 'iced'],
+    author: 'David Campbell',
+    authorLink: 'https://github.com/dcampbell24/',
+    link: 'https://github.com/dcampbell24/iced_7guis',
+    src: 'https://github.com/dcampbell24/iced_7guis',
   }
 ]
