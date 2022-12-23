@@ -375,5 +375,13 @@ const implementations = [
     authorLink: 'https://github.com/dcampbell24/',
     link: 'https://github.com/dcampbell24/iced_7guis',
     src: 'https://github.com/dcampbell24/iced_7guis',
+  },
+  {
+    title: 'Minimal Web',
+    technologies: ['HTML', 'CSS', 'JavaScript'],
+    author: 'Greg Marshall',
+    authorLink: 'https://github.com/marshallworks',
+    link: 'https://marshallworks.github.io/7GUIs',
+    src: 'https://github.com/marshallworks/7GUIs',
   }
 ]
