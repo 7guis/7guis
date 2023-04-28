@@ -383,5 +383,13 @@ const implementations = [
     authorLink: 'https://github.com/marshallworks',
     link: 'https://marshallworks.github.io/7GUIs',
     src: 'https://github.com/marshallworks/7GUIs',
+  },
+  {
+    title: 'OCaml/LablGtk3',
+    technologies: ['OCaml', 'LablGtk3', 'Menhir/ocamllex'],
+    author: 'Frédéric Loyer',
+    authorLink: 'https://github.com/F-Loyer',
+    link: 'https://github.com/F-Loyer/7guis-ocaml-lablgtk3',
+    src: 'https://github.com/F-Loyer/7guis-ocaml-lablgtk3',
   }
 ]
