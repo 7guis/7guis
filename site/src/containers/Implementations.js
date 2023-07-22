@@ -383,5 +383,13 @@ const implementations = [
     authorLink: 'https://github.com/marshallworks',
     link: 'https://marshallworks.github.io/7GUIs',
     src: 'https://github.com/marshallworks/7GUIs',
+  },
+  {
+    title: 'Angular 16',
+    technologies: ['Angular', 'TypeScript', 'Angular Signals'],
+    author: 'Mikhail Filin',
+    authorLink: 'https://github.com/Gortyser',
+    link: 'https://gortyser.github.io/7guis-angular16/',
+    src: 'https://github.com/Gortyser/7guis-angular16',
   }
 ]
