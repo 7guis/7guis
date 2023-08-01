@@ -391,5 +391,14 @@ const implementations = [
     authorLink: 'https://github.com/Gortyser',
     link: 'https://gortyser.github.io/7guis-angular16/',
     src: 'https://github.com/Gortyser/7guis-angular16',
+  },
+  {
+    title: 'Elm',
+    technologies: ['Elm', 'CSS', 'HTML'],
+    author: 'Dwayne Crooks',
+    authorLink: 'https://github.com/dwayne',
+    link: 'https://dwayne.github.io/elm-7guis/',
+    src: 'https://github.com/dwayne/elm-7guis',
+    notes: 'Elm 0.19'
   }
 ]
