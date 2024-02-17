@@ -400,5 +400,13 @@ const implementations = [
     link: 'https://dwayne.github.io/elm-7guis/',
     src: 'https://github.com/dwayne/elm-7guis',
     notes: 'Elm 0.19'
+  },
+  {
+    title: 'Tram-Lite',
+    technologies: ['Tram-Lite', 'Javascript', 'HTML', 'Web-Components'],
+    author: 'Jesse Jurman',
+    authorLink: 'https://github.com/jrjurman',
+    link: 'https://jrjurman.com/Tram-Lite-7GUIs/',
+    src: 'https://github.com/JRJurman/Tram-Lite-7GUIs',
   }
 ]
