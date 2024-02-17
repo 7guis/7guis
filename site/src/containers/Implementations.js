@@ -388,9 +388,9 @@ const implementations = [
     title: 'Angular 16',
     technologies: ['Angular', 'TypeScript', 'Angular Signals'],
     author: 'Mikhail Filin',
-    authorLink: 'https://github.com/Gortyser',
-    link: 'https://gortyser.github.io/7guis-angular16/',
-    src: 'https://github.com/Gortyser/7guis-angular16',
+    authorLink: 'https://github.com/mikhail-filin',
+    link: 'https://mikhail-filin.github.io/7guis-angular16/',
+    src: 'https://github.com/mikhail-filin/7guis-angular16',
   },
   {
     title: 'Elm',
