@@ -387,6 +387,8 @@ const implementations = [
   {
     title: 'Rust/Slint',
     technologies: ['Rust', 'Slint'],
+    author: 'Slint developers',
+    authorLink: 'https://slint.dev',
     link: 'https://github.com/slint-ui/slint/tree/master/examples/7guis',
     src: 'https://github.com/slint-ui/slint/tree/master/examples/7guis',
   },
