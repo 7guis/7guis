@@ -385,6 +385,14 @@ const implementations = [
     src: 'https://github.com/marshallworks/7GUIs',
   },
   {
+    title: 'Rust/Slint',
+    technologies: ['Rust', 'Slint'],
+    author: 'Slint developers',
+    authorLink: 'https://slint.dev',
+    link: 'https://github.com/slint-ui/slint/tree/master/examples/7guis',
+    src: 'https://github.com/slint-ui/slint/tree/master/examples/7guis',
+  },
+  {
     title: 'Angular 16',
     technologies: ['Angular', 'TypeScript', 'Angular Signals'],
     author: 'Mikhail Filin',
