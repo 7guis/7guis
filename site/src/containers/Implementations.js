@@ -126,6 +126,14 @@ const implementations = [
     src: 'https://github.com/eugenkiss/7guis/tree/master/ClojureScript-Om',
   },
   {
+    title: 'Edifice',
+    technologies: ['Qt', 'Python', 'PySide6', 'Edifice'],
+    author: 'James D. Brock',
+    authorLink: 'https://github.com/jamesdbrock',
+    link: 'https://pyedifice.github.io/examples.html#guis-tasks',
+    src: 'https://github.com/pyedifice/pyedifice/tree/master/examples/7guis',
+  },
+  {
     title: 'Qt5',
     technologies: ['Qt5'],
     author: 'Jean-Michaël Celerier',
