@@ -109,6 +109,14 @@ const implementations = [
     src: 'https://github.com/eugenkiss/7guis-Scala-ScalaFX',
   },
   {
+    title: 'eepp GUI',
+    technologies: ['C++', 'OpenGL'],
+    author: 'Martín Lucas Golini',
+    authorLink: 'https://github.com/SpartanJ/',
+    link: 'https://github.com/SpartanJ/eepp?tab=readme-ov-file#7guis-examples',
+    src: 'https://github.com/SpartanJ/eepp/tree/develop/src/examples/7guis',
+  },
+  {
     title: 'Elm',
     technologies: ['Elm'],
     author: 'Joaquin Oltra',
@@ -322,7 +330,7 @@ const implementations = [
     link: 'https://7guis-cljs.nzh.io/',
     src: 'https://github.com/Nazeh/7guis-cljs',
   },
-  {  
+  {
     title: 'Clojurescript/Reagent/2',
     technologies: ['Clojurescript', 'Reagent'],
     author: 'Camilo Polymeris',
